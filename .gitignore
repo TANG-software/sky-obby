@@ -1,0 +1,16 @@
+# Rojo build output
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+build/
+/ServerStorage/
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Tooling
+sourcemap.json
